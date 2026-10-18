@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+CLAUDE.md
+.claude/
+
+data/raw/
+data/features/
+runs/
+dist/
+results/*_preds.jsonl
+results/*_preds.config.json
+results/*.log

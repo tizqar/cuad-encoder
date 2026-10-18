@@ -1,0 +1,35 @@
+[project]
+name = "cuad-encoder"
+version = "1.0.0"
+description = "Fine-tuning small encoders for clause extraction on CUAD."
+requires-python = ">=3.11"
+dependencies = [
+  "torch>=2.4",
+  "transformers>=5.13,<5.16",
+  "tokenizers<0.23",
+  "datasets>=2.19",
+  "accelerate>=0.30",
+  "numpy>=1.26",
+  "scikit-learn>=1.4",
+  "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["cuad_encoder*"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: downloads a model or the dataset"]
