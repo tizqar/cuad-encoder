@@ -1,0 +1,7 @@
+system,aupr,p80,p90,macro_aupr,types_reported
+Ettin-400M (1 seed),57.31,53.86,0.0,56.7,41
+Ettin-150M (mean of 3 seeds),52.78,40.54,0.0,50.28,41
+"RoBERTa-base, our harness (6 types)",39.87,13.69,0.0,,6
+"RoBERTa-base (125M), published",42.6,31.1,,,
+"RoBERTa-large (355M), published",48.2,38.1,,,
+"DeBERTa-v2-xlarge (900M), published",47.8,44.0,,,

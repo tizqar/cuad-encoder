@@ -1,0 +1,5 @@
+system,aupr,p80,p90,macro_aupr,types_reported
+ettin-encoder-400m_w1024_s256_multi_neg1_seed3407_e3v,57.31,53.86,0.0,56.7,41
+"RoBERTa-base (125M), published",42.6,31.1,,,
+"RoBERTa-large (355M), published",48.2,38.1,,,
+"DeBERTa-v2-xlarge (900M), published",47.8,44.0,,,

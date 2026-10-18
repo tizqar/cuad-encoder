@@ -1,0 +1,42 @@
+clause_type,positional,n_gold,sibling_share,aupr[Ettin-400M (1 seed)],p80[Ettin-400M (1 seed)],aupr[Ettin-150M (mean of 3 seeds)],p80[Ettin-150M (mean of 3 seeds)],"aupr[RoBERTa-base, our harness (6 types)]","p80[RoBERTa-base, our harness (6 types)]",delta_aupr[Ettin-400M (1 seed) - Ettin-150M (mean of 3 seeds)]
+Parties,True,543,0.812,90.74,93.87,91.6,95.73,91.5,93.05,-0.86
+Anti-Assignment,False,137,0.474,76.15,73.83,74.1,57.9,,,2.05
+License Grant,False,135,0.63,67.09,37.75,65.54,37.64,,,1.55
+Cap On Liability,False,118,0.627,59.59,60.12,55.07,50.22,,,4.52
+Insurance,False,117,0.726,55.96,0.0,56.21,0.0,,,-0.25
+Audit Rights,False,105,0.638,58.71,46.15,53.85,34.96,,,4.86
+Document Name,True,102,0.0,95.88,96.67,96.7,97.32,91.17,89.36,-0.82
+Agreement Date,True,93,0.0,93.18,89.13,91.58,92.34,94.31,91.67,1.6
+Governing Law,False,90,0.078,96.97,100.0,97.18,99.56,93.48,94.94,-0.21
+Minimum Commitment,False,88,0.636,50.25,27.14,43.01,4.07,,,7.24
+Revenue/Profit Sharing,False,87,0.598,53.49,46.41,47.4,24.94,,,6.09
+Effective Date,True,84,0.167,50.13,30.67,48.75,29.39,47.59,25.28,1.38
+Expiration Date,False,83,0.06,92.67,91.89,92.34,92.81,87.19,80.0,0.33
+Post-Termination Services,False,82,0.646,21.79,0.0,17.89,0.0,,,3.9
+Exclusivity,False,78,0.577,61.71,42.38,52.69,22.34,,,9.02
+Rofr/Rofo/Rofn,False,68,0.75,27.81,0.0,23.63,0.0,,,4.18
+Change Of Control,False,62,0.581,36.02,2.7,30.72,0.0,,,5.3
+IP Ownership Assignment,False,61,0.623,27.42,0.0,26.71,0.0,,,0.71
+Non-Compete,False,59,0.61,39.21,30.97,33.41,14.71,,,5.8
+Covenant Not To Sue,False,44,0.455,65.38,0.0,52.09,0.0,,,13.29
+Non-Transferable License,False,43,0.488,42.91,10.32,39.46,15.75,,,3.45
+Termination For Convenience,False,41,0.293,66.04,51.56,58.87,46.78,,,7.17
+Volume Restriction,False,35,0.514,25.38,20.14,26.7,23.64,,,-1.32
+Renewal Term,False,31,0.161,68.56,54.17,70.66,55.8,,,-2.1
+Competitive Restriction Exception,False,27,0.407,22.3,1.15,15.86,0.37,,,6.44
+Affiliate License-Licensee,False,27,0.556,48.86,44.23,37.92,27.96,,,10.94
+Irrevocable Or Perpetual License,False,23,0.435,83.47,86.36,78.4,71.14,,,5.07
+Liquidated Damages,False,23,0.391,70.0,25.32,47.49,11.99,,,22.51
+Affiliate License-Licensor,False,20,0.7,41.93,31.37,23.87,4.61,,,18.06
+Warranty Duration,False,19,0.474,36.37,0.83,20.87,0.27,,,15.5
+Notice Period To Terminate Renewal,False,18,0.111,68.91,53.57,59.35,32.92,,,9.56
+No-Solicit Of Employees,False,18,0.444,75.53,83.33,74.31,77.02,,,1.22
+Uncapped Liability,False,16,0.188,55.66,30.95,38.09,18.9,,,17.57
+No-Solicit Of Customers,False,15,0.533,51.19,18.18,26.41,10.37,,,24.78
+Joint IP Ownership,False,14,0.5,61.73,20.0,39.6,14.68,,,22.13
+Non-Disparagement,False,12,0.417,34.85,34.48,33.33,7.57,,,1.52
+Third Party Beneficiary,False,11,0.455,31.1,0.51,25.02,15.55,,,6.08
+Unlimited/All-You-Can-Eat-License,False,6,0.5,46.77,0.3,40.97,0.3,,,5.8
+Source Code Escrow,False,5,0.8,82.33,80.0,71.65,70.0,,,10.68
+Most Favored Nation,False,3,0.0,33.86,0.15,31.75,0.0,,,2.11
+Price Restrictions,False,0,,0.0,0.0,0.0,0.0,,,0.0

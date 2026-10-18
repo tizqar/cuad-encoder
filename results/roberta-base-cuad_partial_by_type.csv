@@ -1,0 +1,9 @@
+clause_type,n_gold,aupr,prec_at_80_recall,prec_at_90_recall,excluded
+Agreement Date,93,0.9431,0.9167,,
+Governing Law,90,0.9348,0.9494,,
+Parties,543,0.9150,0.9305,,
+Document Name,102,0.9117,0.8936,,
+Expiration Date,83,0.8719,0.8000,,
+Effective Date,84,0.4759,0.2528,,
+__overall__,2643,0.3987,0.1369,0.0000,
+__macro__,,,,,

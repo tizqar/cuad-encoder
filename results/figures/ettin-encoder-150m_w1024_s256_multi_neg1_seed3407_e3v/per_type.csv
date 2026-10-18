@@ -1,0 +1,42 @@
+clause_type,positional,n_gold,sibling_share,aupr[ettin-encoder-150m_w1024_s256_multi_neg1_seed3407_e3v],p80[ettin-encoder-150m_w1024_s256_multi_neg1_seed3407_e3v]
+Parties,True,543,0.812,92.77,96.14
+Anti-Assignment,False,137,0.474,74.11,61.8
+License Grant,False,135,0.63,66.02,29.0
+Cap On Liability,False,118,0.627,47.72,40.41
+Insurance,False,117,0.726,57.44,0.0
+Audit Rights,False,105,0.638,56.95,38.6
+Document Name,True,102,0.0,97.26,98.89
+Agreement Date,True,93,0.0,92.5,91.95
+Governing Law,False,90,0.078,98.03,100.0
+Minimum Commitment,False,88,0.636,41.6,4.07
+Revenue/Profit Sharing,False,87,0.598,50.41,32.59
+Effective Date,True,84,0.167,48.64,25.75
+Expiration Date,False,83,0.06,93.9,94.52
+Post-Termination Services,False,82,0.646,17.35,0.0
+Exclusivity,False,78,0.577,53.44,25.3
+Rofr/Rofo/Rofn,False,68,0.75,23.36,0.0
+Change Of Control,False,62,0.581,30.22,0.0
+IP Ownership Assignment,False,61,0.623,24.44,0.0
+Non-Compete,False,59,0.61,36.5,23.3
+Covenant Not To Sue,False,44,0.455,53.05,0.0
+Non-Transferable License,False,43,0.488,36.45,9.22
+Termination For Convenience,False,41,0.293,58.82,46.48
+Volume Restriction,False,35,0.514,27.06,25.93
+Renewal Term,False,31,0.161,70.37,55.32
+Competitive Restriction Exception,False,27,0.407,13.9,1.12
+Affiliate License-Licensee,False,27,0.556,39.68,30.56
+Liquidated Damages,False,23,0.391,44.4,22.35
+Irrevocable Or Perpetual License,False,23,0.435,74.26,63.33
+Affiliate License-Licensor,False,20,0.7,21.19,0.0
+Warranty Duration,False,19,0.474,28.35,0.82
+No-Solicit Of Employees,False,18,0.444,72.47,76.19
+Notice Period To Terminate Renewal,False,18,0.111,57.72,31.25
+Uncapped Liability,False,16,0.188,37.61,17.5
+No-Solicit Of Customers,False,15,0.533,25.61,21.43
+Joint IP Ownership,False,14,0.5,40.98,5.83
+Non-Disparagement,False,12,0.417,35.43,3.56
+Third Party Beneficiary,False,11,0.455,28.84,34.62
+Unlimited/All-You-Can-Eat-License,False,6,0.5,41.77,0.3
+Source Code Escrow,False,5,0.8,83.22,80.0
+Most Favored Nation,False,3,0.0,38.89,0.0
+Price Restrictions,False,0,,0.0,0.0

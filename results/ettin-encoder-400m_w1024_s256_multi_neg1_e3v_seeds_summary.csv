@@ -1,0 +1,2 @@
+seed,tag,selected_epoch,val_aupr,aupr,p80,p90,macro_aupr
+3407,ettin-encoder-400m_w1024_s256_multi_neg1_seed3407_e3v,3.0,58.03410898603043,57.3136303565835,53.85594298803766,0.0,56.69752646325594
