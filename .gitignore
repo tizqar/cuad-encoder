@@ -12,6 +12,4 @@ data/raw/
 data/features/
 runs/
 dist/
-results/*_preds.jsonl
-results/*_preds.config.json
-results/*.log
+

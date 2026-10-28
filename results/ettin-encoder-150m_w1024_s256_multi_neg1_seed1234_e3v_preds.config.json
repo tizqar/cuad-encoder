@@ -1,0 +1,1 @@
+{"doc_stride": 256, "impl": 3, "max_answer_len": 512, "max_seq_len": 1024, "model": "runs/ettin-encoder-150m_w1024_s256_multi_neg1_seed1234_e3v/final", "top_k": 20}
